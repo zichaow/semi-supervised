@@ -3,6 +3,6 @@ python implementation of Jerry Zhu's 2003 ICML paper on semi-supervised and acti
 
 Original matlab code: http://www.cs.cmu.edu/~zhuxj/pub/semisupervisedcode/active_learning/
 
-All variables and documentation in the python file active_learning.py are kept the same as the original matlab code.
+All variables and documentation in the python file active_learning.py are kept the same as the original matlab code. I basically translated the matlab code into python.
 
 HAVE NOT TESTED YET. Example usage to come...
